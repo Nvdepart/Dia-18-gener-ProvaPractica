@@ -34,7 +34,7 @@
     </v-col>
     <v-col 
       style="background-color:aquamarine; border-radius:50px " 
-      class="pa-md-5 mr-md-1 " cols="6">
+      class="pa-md-5 mr-md-1" cols="6">
       <p>"El client paga <strong>{{preu}}</strong> euros per un producte.</p> <br>
       <p>L'estat es queda impostos per valor de <strong>{{ iva }}</strong> euros (21% d'IVA).</p>
       <p>El producte ens ha costat <strong>{{cost}}</strong></p>
