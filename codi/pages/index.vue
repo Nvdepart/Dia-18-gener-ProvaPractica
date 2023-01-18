@@ -39,6 +39,7 @@
       <p>L'estat es queda impostos per valor de <strong>{{ iva }}</strong> euros (21% d'IVA).</p>
       <p>El producte ens ha costat <strong>{{cost}}</strong></p>
       <p>Per tant, el marge que et qurda a tu com a vendor és de <strong>{{marge}}</strong> euros.</p>
+      <p>Hola</p>
     </v-col>
   </v-row>
 </div>
